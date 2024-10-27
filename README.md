@@ -4,6 +4,12 @@
 I’m a trained electronic technician passionate about technology and hands-on projects.
 Currently, I'm exploring the world of programming and low-level systems, again.
 
+## 📝 CV
+Six years of experience in testing and development of electrical components for vehicles.
+Four years of experience in maintenance and service.
+Failed student of computer science and electrical engineering.
+Trained electrician, certified technician.
+
 ## 🚀 Projects
 - **[Working environment]**:    Figure out what my best environment is for programming. I am currently looking to configure Hyprland and Neovim.
 - **[Arduino]**:                Creation of a small manual for the programming of an Arduino Nano
