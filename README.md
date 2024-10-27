@@ -1,7 +1,8 @@
-# 👋 Hi there! I'm [Dein Name]
+# 👋 Hi there! I'm tobil939
 
 ## 🌍 About Me
-I’m a trained electronic technician passionate about technology and hands-on projects. Currently, I'm exploring the world of programming and low-level systems.
+I’m a trained electronic technician passionate about technology and hands-on projects.
+Currently, I'm exploring the world of programming and low-level systems, again.
 
 ## 🖥️ Operating System
 - **Distro:** Arch Linux with Hyprland
