@@ -30,5 +30,8 @@ Currently, I'm exploring the world of programming and low-level systems, again.
 - German (native)
 - English (fluent)
 
+## ⌨️ Typing Skills
+![Typing Monkey Stats](https://monkeytype.com/profile/tobil939)
+
 ## 📫 Let's Connect!
 Feel free to reach out or check out my projects below!
