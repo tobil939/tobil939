@@ -47,4 +47,4 @@ Currently, I'm exploring the world of programming and low-level systems, again.
 ## 📫 Let's Connect!
 Feel free to reach out or check out my projects below!
 [LinkedIn-Profil]([https://www.linkedin.com/in/dein-profilname](https://www.linkedin.com/in/tobias-leitz-5464702b9/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bpo1AydHFSpyRfKNpI9SJaQ%3D%3D))
-[Email](tobias.leitz@gmx.de)
+[Email]([tobias.leitz@gmx.de])
